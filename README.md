@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`GIT`" - `Максимов Андрей Дмитриевич`
+# Домашнее задание к занятию "`СI/СD`" - `Максимов Андрей Дмитриевич`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -24,18 +24,15 @@
 
 ### Задание 1
 
-https://github.com/duha2060/git_test/commit/7ccc191e5eb6f1902329d69b1cdf07094dab1546
+![image](https://github.com/duha2060/CI-CD/assets/80347708/2271e22d-a740-4ac1-8db1-4f03feb0b696)
 
-![image](https://github.com/duha2060/git/assets/80347708/33aefd9f-fba4-4874-a728-e9d88679cd68)
-
+![image](https://github.com/duha2060/CI-CD/assets/80347708/5bca7b2b-38df-46fb-b3d7-0ed62f825035)
 
 
 ---
 
 ### Задание 2
 
-
-https://github.com/duha2060/git_test/commit/41c4a75eb1e023903059db3524e85ba560e6a733
 
 
 
@@ -44,9 +41,6 @@ https://github.com/duha2060/git_test/commit/41c4a75eb1e023903059db3524e85ba560e6
 
 ### Задание 3
 
-![image](https://github.com/duha2060/git/assets/80347708/308c4626-b181-442f-8d68-73d955604768)
-
-https://github.com/duha2060/git_test/commits/dev
 
 
 ### Задание 4
