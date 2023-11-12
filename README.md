@@ -33,7 +33,9 @@
 
 ### Задание 2
 
+![image](https://github.com/duha2060/CI-CD/assets/80347708/56f859c2-9063-4c4e-950d-f5e5af6e4be2)
 
+![image](https://github.com/duha2060/CI-CD/assets/80347708/8555713d-6357-47ba-acdf-4edc8fae6b68)
 
 
 
