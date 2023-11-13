@@ -46,6 +46,7 @@
 
 ![image](https://github.com/duha2060/CI-CD/assets/80347708/2919e833-d359-479e-9b7b-cd98e9d7df37)
 
+![image](https://github.com/duha2060/CI-CD/assets/80347708/ad1818ed-b497-4dcc-8a1c-3327892e72d8)
 
 
 
