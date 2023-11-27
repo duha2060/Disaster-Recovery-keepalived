@@ -51,6 +51,8 @@
 
 ### Задание 5
 
+![image](https://github.com/duha2060/zabbix2/assets/80347708/fb1f6891-4dab-4b8a-8b72-2c3e580dfccf)
+
 
 
 
@@ -59,7 +61,16 @@
 
 ### Задание 6
 
+![image](https://github.com/duha2060/zabbix2/assets/80347708/2e845c2f-1fd1-4792-9f14-8e82315374cf)
+```
+if [ "$1" == "1" ]; then
+        echo "Andre Maksimov"
+fi
 
+if [ "$1" == "2" ]; then
+        date
+fi
+```
 
 
 ---
