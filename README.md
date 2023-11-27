@@ -25,20 +25,17 @@
 ### Задание 1
 
 
+![image](https://github.com/duha2060/zabbix2/assets/80347708/c4e448ce-37ea-46ff-b230-121a53642580)
+![image](https://github.com/duha2060/zabbix2/assets/80347708/e326c47f-28aa-416d-9b68-c8b0b60a196a)
 
 
 ---
 
-### Задание 2
+### Задание 2-3
 
-
-
-
----
-
-### Задание 3
-
-
+![image](https://github.com/duha2060/zabbix2/assets/80347708/6c3cef93-5322-4755-9869-a8ca1b575baf)
+![image](https://github.com/duha2060/zabbix2/assets/80347708/2947e888-05dd-4325-bf22-23dd40fffbdf)
+![Uploading image.png…]()
 
 
 ---
