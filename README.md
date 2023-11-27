@@ -35,7 +35,8 @@
 
 ![image](https://github.com/duha2060/zabbix2/assets/80347708/6c3cef93-5322-4755-9869-a8ca1b575baf)
 ![image](https://github.com/duha2060/zabbix2/assets/80347708/2947e888-05dd-4325-bf22-23dd40fffbdf)
-![Uploading image.png…]()
+![image](https://github.com/duha2060/zabbix2/assets/80347708/894d7184-01cd-40c1-b10c-185ba31fe9dd)
+
 
 
 ---
