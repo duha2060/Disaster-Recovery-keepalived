@@ -43,6 +43,8 @@
 
 ### Задание 4
 
+![image](https://github.com/duha2060/zabbix2/assets/80347708/f81d5835-4e67-4e79-bbe4-f55316bf5b34)
+
 
 
 ---
