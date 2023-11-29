@@ -39,5 +39,14 @@
 
 ---
 ### Задание 4
+![image](https://github.com/duha2060/Prometheus/assets/80347708/7fafb299-405d-4fcf-acd4-2d45e5aba335)
+
+
+
+---
+### Задание 5
+
+![image](https://github.com/duha2060/Prometheus/assets/80347708/ed418f3d-8482-4c81-b845-5619d8f42902)
+
 
 
