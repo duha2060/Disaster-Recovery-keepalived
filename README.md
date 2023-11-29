@@ -23,6 +23,21 @@
 ---
 
 ### Задание 1
+![image](https://github.com/duha2060/Prometheus/assets/80347708/6d87acc9-bcc9-4cef-9bfa-425eaa248ec6)
 
+
+---
+### Задание 2
+![image](https://github.com/duha2060/Prometheus/assets/80347708/89ac0284-6161-4fd0-bb7f-76ba6358a3ce)
+
+---
+### Задание 3
+
+![image](https://github.com/duha2060/Prometheus/assets/80347708/65fedcf6-9084-4774-a0ed-d6178a25c9d4)
+![image](https://github.com/duha2060/Prometheus/assets/80347708/a101f471-e536-45da-a84a-a8adbb618f9c)
+
+
+---
+### Задание 4
 
 
