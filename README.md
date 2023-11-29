@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix. Часть 2`" - `Максимов Андрей Дмитриевич`
+# Домашнее задание к занятию "`Система мониторинга Prometheus`" - `Максимов Андрей Дмитриевич`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -25,71 +25,4 @@
 ### Задание 1
 
 
-![image](https://github.com/duha2060/zabbix2/assets/80347708/c4e448ce-37ea-46ff-b230-121a53642580)
-![image](https://github.com/duha2060/zabbix2/assets/80347708/e326c47f-28aa-416d-9b68-c8b0b60a196a)
 
-
----
-
-### Задание 2-3
-
-![image](https://github.com/duha2060/zabbix2/assets/80347708/6c3cef93-5322-4755-9869-a8ca1b575baf)
-![image](https://github.com/duha2060/zabbix2/assets/80347708/2947e888-05dd-4325-bf22-23dd40fffbdf)
-![image](https://github.com/duha2060/zabbix2/assets/80347708/894d7184-01cd-40c1-b10c-185ba31fe9dd)
-
-
-
----
-
-### Задание 4
-
-![image](https://github.com/duha2060/zabbix2/assets/80347708/f81d5835-4e67-4e79-bbe4-f55316bf5b34)
-
-
-
----
-
-### Задание 5
-
-![image](https://github.com/duha2060/zabbix2/assets/80347708/fb1f6891-4dab-4b8a-8b72-2c3e580dfccf)
-
-
-
-
-
----
-
-### Задание 6
-
-![image](https://github.com/duha2060/zabbix2/assets/80347708/2e845c2f-1fd1-4792-9f14-8e82315374cf)
-```
-if [ "$1" == "1" ]; then
-        echo "Andre Maksimov"
-fi
-
-if [ "$1" == "2" ]; then
-        date
-fi
-```
-
-
----
-
-### Задание 7
-
-
-
-
-
----
-
-### Задание 8
-
-
-
-
-
-
----
-
-### Задание 9
