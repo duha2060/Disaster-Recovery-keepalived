@@ -23,6 +23,11 @@
 ---
 
 ### Задание 1
+![image](https://github.com/duha2060/Disaster-Recovery-keepalived/assets/80347708/7d4c1218-e32d-473f-b4db-b83940ba74ae)
+![image](https://github.com/duha2060/Disaster-Recovery-keepalived/assets/80347708/349fde73-ecf6-475e-a780-3014dedca9b7)
+![image](https://github.com/duha2060/Disaster-Recovery-keepalived/assets/80347708/9d58fd87-2669-49da-a6d8-ed99a2c437d1)
+![image](https://github.com/duha2060/Disaster-Recovery-keepalived/assets/80347708/afbb6a62-cb3a-4c78-aea1-e14653f82e4c)
+![image](https://github.com/duha2060/Disaster-Recovery-keepalived/assets/80347708/53001674-8464-45cf-b7db-95b8dcb03393)
 
 
 
