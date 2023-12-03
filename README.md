@@ -32,20 +32,23 @@
 
 ---
 ### Задание 2
+![image](https://github.com/duha2060/Disaster-Recovery-keepalived/assets/80347708/0e973658-1597-4948-8e38-798e06f43644)
+![image](https://github.com/duha2060/Disaster-Recovery-keepalived/assets/80347708/a2cbf417-c204-4628-9dcc-f3342a26db0d)
 
+```
+if [[ $(netstat -tuln | grep LISTEN | grep :80) ]] && [[ -f /var/www/html/index.nginx-debian.html ]]; then
+
+        exit 0
+else
+        sudo systemctl stop keepalived
+fi
+```
 
 ---
 ### Задание 3
 
 
 
----
-### Задание 4
-
-
-
----
-### Задание 5
 
 
 
