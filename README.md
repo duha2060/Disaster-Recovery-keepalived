@@ -44,6 +44,30 @@ else
 fi
 ```
 
+
+```
+vrrp_script check_script {
+      script "/root/check_nginx.sh"
+      interval 3
+}
+
+vrrp_instance VI_1 {
+        state MASTER
+        interface enp0s8
+        virtual_router_id 66
+        priority 255
+        advert_int 1
+
+        virtual_ipaddress {
+              192.168.50.66/24
+        }
+        track_script {
+                check_script
+        }
+
+}
+
+```
 ---
 ### Задание 3
 
